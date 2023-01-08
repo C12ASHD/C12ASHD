@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **C12ASHD/C12ASHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/Z7jWW4I.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/Z7jWW4I.jpg">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
